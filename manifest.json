@@ -1,0 +1,815 @@
+{
+  "sitemap": {
+    "baseUrl": "https://cenngo.github.io/R6Stats-Sharp/"
+  },
+  "homepages": [],
+  "source_base_path": "/github/workspace",
+  "xrefmap": "xrefmap.yml",
+  "files": [
+    {
+      "type": "Conceptual",
+      "source_relative_path": "README.md",
+      "output": {
+        ".html": {
+          "relative_path": "README.html",
+          "hash": "4bLlCEN5vz+4/ZNkEm/8wg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/R6Stat_Sharp.Models.LookupSettings.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/R6Stat_Sharp.Models.LookupSettings.html",
+          "hash": "ysAzCZfKbxcma6slrGINLA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/R6Stat_Sharp.Models.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/R6Stat_Sharp.Models.html",
+          "hash": "FlJJASSgLv6njLwPqKIv+w=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/R6Stats.Enums.OperatorType.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/R6Stats.Enums.OperatorType.html",
+          "hash": "istO/RrMiDtW9YjD4GlU0A=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/R6Stats.Enums.Platform.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/R6Stats.Enums.Platform.html",
+          "hash": "6mzEXQrjB3ZZVhwl2CwR1w=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/R6Stats.Enums.Region.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/R6Stats.Enums.Region.html",
+          "hash": "GHaa2DyLDKk3ZCdIOJFf3g=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/R6Stats.Enums.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/R6Stats.Enums.html",
+          "hash": "E91nXQvp8qBa/H4IBl42yw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/R6Stats.Extensions.RankExtensions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/R6Stats.Extensions.RankExtensions.html",
+          "hash": "8+cnuqpqvWPjc/L2VN6fNw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/R6Stats.Extensions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/R6Stats.Extensions.html",
+          "hash": "Y5/0fkP358Q8hWiTVDRXWg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/R6Stats.Models.Alias.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/R6Stats.Models.Alias.html",
+          "hash": "jm2nvX0nlakXY46cbBvDvQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/R6Stats.Models.ApiError.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/R6Stats.Models.ApiError.html",
+          "hash": "uWphKrHZMJW87rfzObegoQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/R6Stats.Models.TimeStamps.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/R6Stats.Models.TimeStamps.html",
+          "hash": "JUZrrBzx3PEPbsMmnePchA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/R6Stats.Models.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/R6Stats.Models.html",
+          "hash": "r6lSaxF7gpXo7c+AGh0aOA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/R6Stats.R6StatsClient.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/R6Stats.R6StatsClient.html",
+          "hash": "ZvKCbLcuasE6hkcRkE8eeA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/R6Stats.R6StatsClientConfig.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/R6Stats.R6StatsClientConfig.html",
+          "hash": "M0Zq6/qllPS2GrPMkfZghg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/R6Stats.Response.APIResponse-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/R6Stats.Response.APIResponse-1.html",
+          "hash": "u4lwGXa3vI70hzkN9P8cQQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/R6Stats.Response.BaseResponse.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/R6Stats.Response.BaseResponse.html",
+          "hash": "RjZbEEXl/i+XcjGXQfXfVA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/R6Stats.Response.GenericResponse.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/R6Stats.Response.GenericResponse.html",
+          "hash": "P95fJanKtEW/pJY6wdidRw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/R6Stats.Response.Interfaces.IAlias.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/R6Stats.Response.Interfaces.IAlias.html",
+          "hash": "znIh3EicP03hEbv7OeebQw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/R6Stats.Response.Interfaces.IGenericResponse.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/R6Stats.Response.Interfaces.IGenericResponse.html",
+          "hash": "4mqxvzOHCJDjBUh4/dvbEw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/R6Stats.Response.Interfaces.IOperatorResponse.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/R6Stats.Response.Interfaces.IOperatorResponse.html",
+          "hash": "xmofDfgRW1WMaVIdowM07w=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/R6Stats.Response.Interfaces.IPayload.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/R6Stats.Response.Interfaces.IPayload.html",
+          "hash": "ufEK3AvGnn/XZAGpfBD/BQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/R6Stats.Response.Interfaces.ISeasonalResponse.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/R6Stats.Response.Interfaces.ISeasonalResponse.html",
+          "hash": "5iCktz5EP3CEFTJXk7UziA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/R6Stats.Response.Interfaces.IStat.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/R6Stats.Response.Interfaces.IStat.html",
+          "hash": "89PSLAcpbhNnppmkajCYZQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/R6Stats.Response.Interfaces.IWeaponCategoryResponse.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/R6Stats.Response.Interfaces.IWeaponCategoryResponse.html",
+          "hash": "7CIXCG5qZdoCGX1svXmfiQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/R6Stats.Response.Interfaces.IWeaponResponse.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/R6Stats.Response.Interfaces.IWeaponResponse.html",
+          "hash": "bZmQNAfxMj7R/X2pQqg34w=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/R6Stats.Response.Interfaces.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/R6Stats.Response.Interfaces.html",
+          "hash": "jY3zgongYQHyspPx25OcCA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/R6Stats.Response.Leaderboard.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/R6Stats.Response.Leaderboard.html",
+          "hash": "N1M+E8jvmRfuC2Sw1fGQwA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/R6Stats.Response.OperatorResponse.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/R6Stats.Response.OperatorResponse.html",
+          "hash": "OeMJ3zfsMz4kymIAxBD6VA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/R6Stats.Response.SeasonalResponse.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/R6Stats.Response.SeasonalResponse.html",
+          "hash": "XsM1rH8AZSiHPfZpDOlYiQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/R6Stats.Response.WeaponCategoryResponse.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/R6Stats.Response.WeaponCategoryResponse.html",
+          "hash": "hSh3tlRH7trewE+y4t7DPg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/R6Stats.Response.WeaponsResponse.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/R6Stats.Response.WeaponsResponse.html",
+          "hash": "h1wPUv2jIWm0b0rrt4qZRg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/R6Stats.Response.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/R6Stats.Response.html",
+          "hash": "wi7RiZY0PUBoULI+1PPLvw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/R6Stats.Stats.BombStats.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/R6Stats.Stats.BombStats.html",
+          "hash": "TtYB+ednGmSdmj4DuCt/JQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/R6Stats.Stats.GamemodeStat.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/R6Stats.Stats.GamemodeStat.html",
+          "hash": "Tri1cIL9WELO/SIc1RBMqQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/R6Stats.Stats.GeneralStat.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/R6Stats.Stats.GeneralStat.html",
+          "hash": "xUV36Z/H0JhWM6kB1Lts6A=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/R6Stats.Stats.GenericGamemodeStats.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/R6Stats.Stats.GenericGamemodeStats.html",
+          "hash": "W1S+eNSoqwOXe/HhLXd2zw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/R6Stats.Stats.GenericQueueStats.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/R6Stats.Stats.GenericQueueStats.html",
+          "hash": "fFR/v7zdtwWHCsgSpeXnlg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/R6Stats.Stats.GenericResponseStats.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/R6Stats.Stats.GenericResponseStats.html",
+          "hash": "LGQxe7LJfmvlxAMaL12q3Q=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/R6Stats.Stats.HostageStats.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/R6Stats.Stats.HostageStats.html",
+          "hash": "O220dFRycqh8TkaJAJYfpA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/R6Stats.Stats.Interfaces.IGameStat.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/R6Stats.Stats.Interfaces.IGameStat.html",
+          "hash": "xsr4y6Q0JF+7RXEId/ArCQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/R6Stats.Stats.Interfaces.IGamemodeStat.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/R6Stats.Stats.Interfaces.IGamemodeStat.html",
+          "hash": "tpJRYkIFQLH9y8/uCLajwA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/R6Stats.Stats.Interfaces.IGenericStat.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/R6Stats.Stats.Interfaces.IGenericStat.html",
+          "hash": "kmzfshq2bNAd4/pXMi2VFA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/R6Stats.Stats.Interfaces.IPlayerStat.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/R6Stats.Stats.Interfaces.IPlayerStat.html",
+          "hash": "52vJ3LlZUwZQQO4M57BGwg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/R6Stats.Stats.Interfaces.IRankedData.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/R6Stats.Stats.Interfaces.IRankedData.html",
+          "hash": "XaclFkdHVvIN9cwWRDBkJw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/R6Stats.Stats.Interfaces.ISeasonalStat.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/R6Stats.Stats.Interfaces.ISeasonalStat.html",
+          "hash": "r4WRwUKRE3movdsx3L1UQA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/R6Stats.Stats.Interfaces.IWeaponStat.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/R6Stats.Stats.Interfaces.IWeaponStat.html",
+          "hash": "DBsLH3Sa1tug+L7hXZmWaQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/R6Stats.Stats.Interfaces.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/R6Stats.Stats.Interfaces.html",
+          "hash": "Jso5/ZkSmAM3G//2PoPZ+Q=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/R6Stats.Stats.LeaderboardSlot.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/R6Stats.Stats.LeaderboardSlot.html",
+          "hash": "XA4vTzL4kCUcAPpTzrQh1g=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/R6Stats.Stats.LeaderboardUserStats.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/R6Stats.Stats.LeaderboardUserStats.html",
+          "hash": "5NUT1ymzPcTjCifGbww1Tw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/R6Stats.Stats.OperatorStat.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/R6Stats.Stats.OperatorStat.html",
+          "hash": "vsEEpLyTFhPzutMhPfZ79g=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/R6Stats.Stats.PlayerProgression.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/R6Stats.Stats.PlayerProgression.html",
+          "hash": "WigcREM+oNPCyVcW79ZeNQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/R6Stats.Stats.QueueStat.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/R6Stats.Stats.QueueStat.html",
+          "hash": "VTmhgUptvpxb+vUPAeYryQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/R6Stats.Stats.RegionStat.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/R6Stats.Stats.RegionStat.html",
+          "hash": "I5MO7xvOwv9+vOkzcqv8jA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/R6Stats.Stats.Regions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/R6Stats.Stats.Regions.html",
+          "hash": "CRF0C3jDTLvzOx34dh3iwQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/R6Stats.Stats.SeasonalStat.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/R6Stats.Stats.SeasonalStat.html",
+          "hash": "TspXkbZag3mbhr90Tqoqvw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/R6Stats.Stats.SecureAreaStats.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/R6Stats.Stats.SecureAreaStats.html",
+          "hash": "acYGriUaPsgrfbvSQ9A6Ng=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/R6Stats.Stats.WeaponCategoryStat.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/R6Stats.Stats.WeaponCategoryStat.html",
+          "hash": "G5mEDBT+jxCk/W6pVJ7Siw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/R6Stats.Stats.WeaponStat.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/R6Stats.Stats.WeaponStat.html",
+          "hash": "RGa1hdWHYZ8Ybuglv0fwDw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/R6Stats.Stats.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/R6Stats.Stats.html",
+          "hash": "MBX37XhxDjpZ9F452a8zPw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/R6Stats.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/R6Stats.html",
+          "hash": "pG3Eqi5nL5+wjO11OB86qw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "api/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/toc.html",
+          "hash": "24ui3anFFwhWsaXqv2GSNA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "index.md",
+      "output": {
+        ".html": {
+          "relative_path": "index.html",
+          "hash": "PW981skRC6e/m6TXC48hiw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    }
+  ],
+  "incremental_info": [
+    {
+      "status": {
+        "can_incremental": false,
+        "details": "Cannot build incrementally because last build info is missing.",
+        "incrementalPhase": "build",
+        "total_file_count": 0,
+        "skipped_file_count": 0,
+        "full_build_reason_code": "NoAvailableBuildCache"
+      },
+      "processors": {
+        "ConceptualDocumentProcessor": {
+          "can_incremental": false,
+          "incrementalPhase": "build",
+          "total_file_count": 2,
+          "skipped_file_count": 0
+        },
+        "ManagedReferenceDocumentProcessor": {
+          "can_incremental": false,
+          "incrementalPhase": "build",
+          "total_file_count": 60,
+          "skipped_file_count": 0
+        },
+        "TocDocumentProcessor": {
+          "can_incremental": false,
+          "details": "Processor TocDocumentProcessor cannot support incremental build because the processor doesn't implement ISupportIncrementalDocumentProcessor interface.",
+          "incrementalPhase": "build",
+          "total_file_count": 0,
+          "skipped_file_count": 0
+        }
+      }
+    },
+    {
+      "status": {
+        "can_incremental": false,
+        "details": "Cannot support incremental post processing, the reason is: should not trace intermediate info.",
+        "incrementalPhase": "postProcessing",
+        "total_file_count": 0,
+        "skipped_file_count": 0
+      },
+      "processors": {}
+    }
+  ],
+  "version_info": {},
+  "groups": [
+    {
+      "xrefmap": "xrefmap.yml"
+    }
+  ]
+}
